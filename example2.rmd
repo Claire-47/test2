@@ -5,3 +5,5 @@ version 9
 after checkout commit
 
 try amend commit
+
+test reset soft
