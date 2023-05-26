@@ -11,10 +11,7 @@ find the reject reason
 
 test reset soft
 
-<<<<<<< HEAD
 continue test soft
 
 add some stuff in soft
 
-=======
->>>>>>> parent of 478bf7a (continue add some stuff soft)
