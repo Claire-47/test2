@@ -11,3 +11,4 @@ find the reject reason
 
 test reset soft
 
+continue test soft
