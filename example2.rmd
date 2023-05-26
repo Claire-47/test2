@@ -6,4 +6,8 @@ after checkout commit
 
 try amend commit
 
+
 find the reject reason
+
+test reset soft
+
